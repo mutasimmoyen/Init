@@ -20,8 +20,6 @@ public class Main {
         Thread t6 = new Thread(t6_);
 
         t1.start();
-//        t1.join();
-//        Thread.sleep(1);
         t2.start();
 //        t2.join();
 //        Thread.sleep(11);
